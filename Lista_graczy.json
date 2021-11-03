@@ -1,0 +1,55 @@
+{
+  "graczeee":
+  [
+    {
+      "firstName": "Jaaan",
+      "lastName": "Kowalski",
+      "poziom": "11",
+      "wiek": "12",
+      "obrazek": "aa",
+      "konto": "nowe11",
+      "email": "ads@nn.pl",
+      "zloto": "12 gold",
+      "waga": "55 kg",
+      "kod": "11bf",
+      "mieczzzzz":
+      {
+        "nazwa": "nowyyyy",
+        "obrazenia": "12"
+      },
+      "tarczaaaa":
+      {
+        "nazwa": "nowyyyy",
+        "obrona": "11"
+      }
+    },
+    {
+      "firstName": "Marzena",
+      "lastName": "Nowak",
+      "poziom": "10",
+      "wiek": "14",
+      "obrazek": "bbb"
+    },
+    {
+      "firstName": "Bozydar",
+      "lastName": "Nowak",
+      "poziom": "4",
+      "wiek": "10",
+      "obrazek": "ddd"
+    },
+    {
+      "firstName": "dsfsd",
+      "lastName": "Nowdfsdfsak",
+      "poziom": "4",
+      "wiek": "10",
+      "obrazek": "aa"
+    },
+    {
+      "firstName": "adsdasdasdas",
+      "lastName": "Nowdfsdfdasdasasdsak",
+      "poziom": "4",
+      "wiek": "10",
+      "obrazek": "aaaaa"
+    }
+  ]
+}
