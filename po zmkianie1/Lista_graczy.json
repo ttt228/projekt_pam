@@ -6,28 +6,245 @@
       "lastName": "Kowalski",
       "poziom": "11",
       "wiek": "12",
-      "obrazek": "aa"
+      "obrazek": "bbb",
+      "urll": "http://ddd.ugu.pl/bbb.jpg",
+      "konto": "nowe11",
+      "email": "ads@nn.pl",
+      "zloto": "12 gold",
+      "waga": "55 kg",
+      "kod": "11bf",
+      "mieczzzzz":
+      {
+        "nazwa": "nowyyyy",
+        "obrazenia": "15555"
+      },
+      "tarczaaaa":
+      {
+        "nazwa": "nowyyyy",
+        "obrona": "1"
+      }
     },
+
+
     {
-      "firstName": "Marzena",
+      "firstName": "Bożydar",
       "lastName": "Nowak",
       "poziom": "10",
-      "wiek": "14",
-      "obrazek": "bbb"
-    },
+      "wiek": "22",
+      "obrazek": "bbb",
+      "urll": "http://ddd.ugu.pl/bbb.jpg",
+      "konto": "nowe1",
+      "email": "addddddds@nn.pl",
+      "zloto": "10 gold",
+      "waga": "50 kg",
+      "kod": "asdsdazccz",
+      "mieczzzzz":
+      {
+        "nazwa": "miwcz12",
+        "obrazenia": "111"
+      },
+      "tarczaaaa":
+      {
+        "nazwa": "tarcza15",
+        "obrona": "15"
+      }
+},
+
+
+
+
     {
-      "firstName": "Bozydar",
+      "firstName": "Norbert",
+      "lastName": "Pawlak",
+      "poziom": "213",
+      "wiek": "43",
+      "obrazek": "aa",
+      "urll": "http://ddd.ugu.pl/aa.jpg",
+      "konto": "asdads",
+      "email": "aasddsaadsdsaddddds@nn.pl",
+      "zloto": "1 gold",
+      "waga": "58 kg",
+      "kod": "asdsacxzvvvvvvv",
+      "mieczzzzz":
+      {
+        "nazwa": "nowoczesny",
+        "obrazenia": "11"
+      },
+      "tarczaaaa":
+      {
+        "nazwa": "tarcza15",
+        "obrona": "111"
+      }
+},
+
+    {
+      "firstName": "Mariusz",
+      "lastName": "Kowal",
+      "poziom": "111110",
+      "wiek": "1111111",
+      "obrazek": "aaa",
+      "urll": "http://ddd.ugu.pl/aaa.jpg",
+      "konto": "nowe1",
+      "email": "addddddds@nn.pl",
+      "zloto": "12130 gold",
+      "waga": "80 kg",
+      "kod": "bdghghhj",
+      "mieczzzzz":
+      {
+        "nazwa": "mi12",
+        "obrazenia": "3232"
+      },
+      "tarczaaaa":
+      {
+        "nazwa": "tarczazlota",
+        "obrona": "4323423"
+      }
+},
+
+    {
+      "firstName": "Norbert",
+      "lastName": "Nazwiiskoooo",
+      "poziom": "111110",
+      "wiek": "232",
+      "obrazek": "bbb",
+      "urll": "http://ddd.ugu.pl/bbb.jpg",
+      "konto": "saddassad",
+      "email": "daasffwe43e@nn.pl",
+      "zloto": "90 gold",
+      "waga": "42 kg",
+      "kod": "sadfdsfsdafsd",
+      "mieczzzzz":
+      {
+        "nazwa": "miwcddsz12",
+        "obrazenia": "122221"
+      },
+      "tarczaaaa":
+      {
+        "nazwa": "tarcza15",
+        "obrona": "13333"
+      }
+},
+
+    {
+      "firstName": "Mieczyslaw",
       "lastName": "Nowak",
-      "poziom": "4",
-      "wiek": "10",
-      "obrazek": "ccc"
-    },
+      "poziom": "11220",
+      "wiek": "2212",
+      "obrazek": "bbb",
+      "urll": "http://ddd.ugu.pl/bbb.jpg",
+      "konto": "2adfaaf",
+      "email": "sdfqwrf@nn.pl",
+      "zloto": "18 gold",
+      "waga": "50 kg",
+      "kod": "asddsa",
+      "mieczzzzz":
+      {
+        "nazwa": "adsas",
+        "obrazenia": "11121"
+      },
+      "tarczaaaa":
+      {
+        "nazwa": "asdfdsafdfsd",
+        "obrona": "1"
+      }
+},
+
     {
-      "firstName": "dsfsd",
-      "lastName": "Nowdfsdfsak",
-      "poziom": "4",
-      "wiek": "10",
-      "obrazek": "aaaaaa"
-    }
+      "firstName": "sdffsdfdsa",
+      "lastName": "Nowsfdfsdak",
+      "poziom": "1230",
+      "wiek": "2222",
+      "obrazek": "bbb",
+      "urll": "http://ddd.ugu.pl/bbb.jpg",
+      "konto": "adsasd",
+      "email": "adsadads@nn.pl",
+      "zloto": "14 gold",
+      "waga": "54 kg",
+      "kod": "sdfdsfsd",
+      "mieczzzzz":
+      {
+        "nazwa": "adsadsdas",
+        "obrazenia": "231"
+      },
+      "tarczaaaa":
+      {
+        "nazwa": "asddsasda",
+        "obrona": "15123"
+      }
+},
+
+    {
+      "firstName": "Miroslawa",
+      "lastName": "Nowak",
+      "poziom": "1230",
+      "wiek": "3233",
+      "obrazek": "bbb",
+      "urll": "http://ddd.ugu.pl/bbb.jpg",
+      "konto": "asdsadas",
+      "email": "asddsaasd@nn.pl",
+      "zloto": "199 gold",
+      "waga": "59 kg",
+      "kod": "sadsaddsa",
+      "mieczzzzz":
+      {
+        "nazwa": "miwcsadsaddasz12",
+        "obrazenia": "12112311"
+      },
+      "tarczaaaa":
+      {
+        "nazwa": "adssaddsadsa",
+        "obrona": "1115"
+      }
+},
+
+    {
+      "firstName": "Jannnnnn",
+      "lastName": "Nowak",
+      "poziom": "332",
+      "wiek": "33324",
+      "obrazek": "aa",
+      "urll": "http://ddd.ugu.pl/aa.jpg",
+      "konto": "adssad",
+      "email": "sadads@nn.pl",
+      "zloto": "1111 gold",
+      "waga": "55 kg",
+      "kod": "asddsaasd",
+      "mieczzzzz":
+      {
+        "nazwa": "miwadssadcz12",
+        "obrazenia": "121311"
+      },
+      "tarczaaaa":
+      {
+        "nazwa": "fsddsfsdfsf",
+        "obrona": "12315"
+      }
+},
+
+    {
+      "firstName": "DZIESIATY",
+      "lastName": "DZIESIATY",
+      "poziom": "110",
+      "wiek": "212",
+      "obrazek": "bbb",
+      "urll": "http://ddd.ugu.pl/bbb.jpg",
+      "konto": "DZIESIATY",
+      "email": "DZIESIATY@nn.pl",
+      "zloto": "110 gold",
+      "waga": "510 kg",
+      "kod": "ASDADSDASDSA",
+      "mieczzzzz":
+      {
+        "nazwa": "miwcz112",
+        "obrazenia": "1111"
+      },
+      "tarczaaaa":
+      {
+        "nazwa": "tarcza115",
+        "obrona": "115"
+      }
+}
+
+
   ]
 }
