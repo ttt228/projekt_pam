@@ -1,0 +1,33 @@
+{
+  "graczeee":
+  [
+    {
+      "firstName": "Jan",
+      "lastName": "Kowalski",
+      "poziom": "11",
+      "wiek": "12",
+      "obrazek": "aa"
+    },
+    {
+      "firstName": "Marzena",
+      "lastName": "Nowak",
+      "poziom": "10",
+      "wiek": "14",
+      "obrazek": "bbb"
+    },
+    {
+      "firstName": "Bozydar",
+      "lastName": "Nowak",
+      "poziom": "4",
+      "wiek": "10",
+      "obrazek": "ccc"
+    },
+    {
+      "firstName": "dsfsd",
+      "lastName": "Nowdfsdfsak",
+      "poziom": "4",
+      "wiek": "10",
+      "obrazek": "aaaaaa"
+    }
+  ]
+}
